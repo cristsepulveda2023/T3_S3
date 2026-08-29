@@ -3,7 +3,7 @@
 ### Módulo II · Semana 3 · **Actividad formativa — sin nota, entrega obligatoria**
 #### Fundamentos de Programación para Análisis Económico · UdeC-EAN
 
-#Autor:  Cristóbal Sepúlveda Sepúlveda
+#Autor:  Cristóbal Ignacio Sepúlveda Sepúlveda
 # Fecha:  28-08-2026
 
 # Objetivo: Evaluar los ingresos respecto a su región y años de experiencia
